@@ -1,0 +1,26 @@
+@media screen and (max-width: 768px) {
+	.body-left{
+	background-color: white;
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-right: 10px;
+
+}
+.jane-doe{
+	background-color: #009688;
+	color: white;
+	width: auto;
+	height: auto;
+	position: absolute;
+	top: 264px;
+	left: 148px;
+	padding: 9px 14px;
+}
+.body-right{
+	background-color: #E8E8E8;
+	width: 100%;
+	height: auto;
+	float: left;
+}
+}
